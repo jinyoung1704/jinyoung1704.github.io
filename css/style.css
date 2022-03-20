@@ -1,0 +1,49 @@
+body {
+    background: no-repeat fixed 100% 100%/100% 100%;
+}
+
+#clock {
+    text-align: center;
+    font-size: 50px;
+}
+#weather {
+    text-align: right;
+    margin-right: 50px;
+    margin-top: 20px;
+    color: white;
+}
+
+#message{
+    text-align: center;
+}
+
+#login_form{
+    text-align: center;
+}
+
+#todo-form {
+    text-align: center;
+}
+
+#todo-form input {
+    width:200px;
+    height:30px;
+    
+      
+}
+
+#todo-list {
+    text-align: center;
+    list-style:none;
+}
+
+#quote{
+    text-align: center;
+    font-size: 25px;
+    color: white
+}
+
+.hidden {
+    display: none;
+}
+
